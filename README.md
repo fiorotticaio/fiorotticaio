@@ -42,9 +42,6 @@
 <a href="https://codepen.io/fiorotticaio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/fiorotticaio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/fiorotticaio" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
