@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fiorotticaio/819a1999ba1d98c863fa75b0504d819e/raw/a5f1e2f0c58e8e868d9b7e7d095e98a86ef6c346/githubcard.svg"/>
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="20px">, my name is Caio</h1>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, my name is Caio</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiorotticaio&color=yellow" alt="Profile views" /> </p> -->
 
 - 💻 Computer Engineering Student at [UFES](https://www.ufes.br/) (Espírito Santo, Brazil)
