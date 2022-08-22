@@ -6,7 +6,7 @@
 
 - 🔭 I currently have a scholarship of an extension project at my university ([PET](https://pet.inf.ufes.br/))
 
-- 💬 Lerning about **TypeScript, HTML, CSS, SQL, Node.JS, Software Architecture,...**
+- 💬 Lerning about **TypeScript, Vue, Quasar, Java, SQL, Node.JS, Software Architecture,...**
 
 - ⚽ Like sports **😜**
 
@@ -15,11 +15,16 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=react)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=react)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=react)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
