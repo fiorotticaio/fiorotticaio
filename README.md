@@ -54,7 +54,7 @@
  <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://mail.google.com/caiofiorotti@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=gmail" alt="caiofiorotti@gmail.com"/>
+ <img align="center" src="https://img.shields.io/badge/-caiofiorotti@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 
