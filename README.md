@@ -32,14 +32,14 @@
 <br><br>
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=fiorotticaio&show_icons=true&theme=dracula" alt="fiorotticaio's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorotticaio&layout=compact&theme=dracula" alt="fiorotticaio's most languages"/>
-</p>
+</p> -->
 
-<br><br>
+<!-- <br><br> -->
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
