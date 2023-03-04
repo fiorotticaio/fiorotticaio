@@ -28,8 +28,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fiorotticaio&show_icons=true&count_private=true&hide_border=true&title_color=606582&icon_color=606582&text_color=c9d1d9&bg_color=0d1117" alt="Caio Fiorotti github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorotticaio&layout=compact&hide_border=true&title_color=606582&text_color=606582&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fiorotticaio&show_icons=true&count_private=true&hide_border=true&title_color=606582&icon_color=606582&text_color=c9d1d9&bg_color=22272E" alt="Caio Fiorotti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorotticaio&layout=compact&hide_border=true&title_color=606582&text_color=606582&bg_color=22272E" />
 </div>
 
 <h1 align="center">🛠 &nbsp;Tech Stack</h1>
