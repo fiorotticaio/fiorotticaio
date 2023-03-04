@@ -1,75 +1,72 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/fiorotticaio/819a1999ba1d98c863fa75b0504d819e/raw/a5f1e2f0c58e8e868d9b7e7d095e98a86ef6c346/githubcard.svg"/>
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, my name is Caio</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiorotticaio&color=yellow" alt="Profile views" /> </p> -->
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=header"/> -->
 
-- 💻 Computer Engineering Student at [UFES](https://www.ufes.br/) (Espírito Santo, Brazil)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fiorotticaio.fiorotticaio&left_color=red&right_color=green&left_text=Profile%20views) 
 
-- 🔭 I currently have a scholarship of an extension project at my university ([PET](https://pet.inf.ufes.br/))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+dear,+My+name+is+Caio+Fiorotti;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 💬 Lerning about **TypeScript, Vue, Quasar, Java, SQL, Node.JS, Clean Architecture,...**
+<div align="center"> 
+<a href="https://instagram.com/fiorotticaio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:caiofiorotti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/caio-fiorotti-691968210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+<br>
 
-- ⚽ Like sports **😜**
+<ul>
+  <li>👦 I'm 20 years old</li>
+  <li>🛣️ Road Technician at <a href="https://www.ifes.edu.br/" target="_blank">IFES</a></li>
+  <li>💻 Studying Computer Engineering Student at <a href="https://www.ufes.br/" target="_blank">UFES</a> since 2021</li>
+  <li>🔭 I currently have a scholarship of an extension project at my university (<a href="https://pet.inf.ufes.br/" target="_blank">PET</a>)</li>
+  <li>⚽ Like sports and reading 📚</li>
+  <li>💡 Focuse on learning many areas of programming and it's technologies</li>
+</ul>
 
-<br><br>
+<br>
 
-## 🛠 &nbsp;Tech Stack
-
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp;
-![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=quasar)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<br><br>
-<br><br>
-
-<!-- ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fiorotticaio&show_icons=true&theme=dracula" alt="fiorotticaio's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorotticaio&layout=compact&theme=dracula" alt="fiorotticaio's most languages"/>
-</p> -->
-
-<!-- <br><br> -->
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/fiorotticaio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://linkedin.com/in/fiorotticaio" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/fiorotticaio" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-fiorotticaio-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://mail.google.com/caiofiorotti@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-caiofiorotti@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fiorotticaio&theme=dracula&row=1&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fiorotticaio&show_icons=true&count_private=true&hide_border=true&title_color=606582&icon_color=606582&text_color=c9d1d9&bg_color=0d1117" alt="Caio Fiorotti github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorotticaio&layout=compact&hide_border=true&title_color=606582&text_color=606582&bg_color=0d1117" />
+</div>
 
-<!--
-**fiorotticaio/fiorotticaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🛠 &nbsp;Tech Stack</h1>
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-Nextjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Github" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Vue" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="Cpp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Jupyter" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="Mysql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="NestJs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="Npm" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Yarn" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  <img align="center" alt="VS Code" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+</div><br>
 
-Here are some ideas to get you started:
+<h1 align="center">✨ &nbsp;Other Skills</h1>
+<div align="center" valign="top"><br>
+  <img align="center" alt="Arduino" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Canva" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Gimp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img align="center" alt="Illustrator" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img align="center" alt="Trello" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <img align="center" alt="Blender" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+</div><br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/> -->
