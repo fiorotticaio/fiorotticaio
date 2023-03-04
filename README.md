@@ -17,8 +17,8 @@
   <li>🛣️ Road Technician at <a href="https://www.ifes.edu.br/" target="_blank">IFES</a></li>
   <li>💻 Studying Computer Engineering Student at <a href="https://www.ufes.br/" target="_blank">UFES</a> since 2021</li>
   <li>🔭 I currently have a scholarship of an extension project at my university (<a href="https://pet.inf.ufes.br/" target="_blank">PET</a>)</li>
-  <li>⚽ Like sports and reading 📚</li>
   <li>💡 Focuse on learning many areas of programming and it's technologies</li>
+  <li>⚽ Like sports and reading 📚</li>
 </ul>
 
 <br>
@@ -46,6 +46,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Vue" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
   <img align="center" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <br>
   <img align="center" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Cpp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
