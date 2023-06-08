@@ -1,6 +1,8 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=header"/> -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fiorotticaio.fiorotticaio&left_color=red&right_color=green&left_text=Profile%20views) 
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fiorotticaio.fiorotticaio&left_color=red&right_color=green&left_text=Profile%20views) -->
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=fiorotticaio&countColor=%237B1E7A)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+dear,+My+name+is+Caio+Fiorotti;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
