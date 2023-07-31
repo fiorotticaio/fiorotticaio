@@ -15,10 +15,10 @@
 <br>
 
 <ul>
-  <li>👦 I'm 20 years old</li>
+  <li>👦 I'm 21 years old</li>
   <li>🛣️ Road Technician at <a href="https://www.ifes.edu.br/" target="_blank">IFES</a></li>
   <li>💻 Studying Computer Engineering Student at <a href="https://www.ufes.br/" target="_blank">UFES</a> since 2021</li>
-  <li>🔭 I currently have a scholarship of an extension project at my university (<a href="https://pet.inf.ufes.br/" target="_blank">PET</a>)</li>
+  <li>🔭 I am currently in a scientific initiation at <a href="https://engenhariamecanica.ufes.br/pt-br/labguar" target="_blank">LabGuará</a> UFES</li>
   <li>💡 Focuse on learning many areas of programming and it's technologies</li>
   <li>⚽ Like sports and reading 📚</li>
 </ul>
