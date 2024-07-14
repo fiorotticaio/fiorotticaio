@@ -16,7 +16,7 @@
 
 <ul>
   <li>👦 I'm 22 years old</li>
-  <li>🛣️ Road Technician at <a href="https://www.ifes.edu.br/" target="_blank">IFES</a></li>
+  <li>🛣️ Civil Technician at <a href="https://www.ifes.edu.br/" target="_blank">IFES</a></li>
   <li>💻 Computer Engineering Student at <a href="https://www.ufes.br/" target="_blank">UFES</a> since 2021</li>
   <li>🔭 I am currently in a scientific research at <a href="https://br.linkedin.com/company/laborat%C3%B3rio-de-rob%C3%B3tica-e-biomec%C3%A2nica" target="_blank">Robotics and biomechanics laboratory</a> at UFES</li>
   <li>💡 Focuse on learning many areas of programming and it's technologies</li>
