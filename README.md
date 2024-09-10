@@ -24,15 +24,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fiorotticaio&theme=dracula&row=1&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fiorotticaio&show_icons=true&count_private=true&hide_border=true&title_color=606582&icon_color=606582&text_color=c9d1d9&bg_color=22272E" alt="Caio Fiorotti github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorotticaio&layout=compact&hide_border=true&title_color=606582&text_color=606582&bg_color=22272E" />
-</div>
-
 <h1 align="center">🛠 &nbsp;Tech Stack</h1>
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
