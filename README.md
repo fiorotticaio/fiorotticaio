@@ -13,12 +13,12 @@
   <a href="https://www.linkedin.com/in/caio-fiorotti-691968210/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a>
-  <a href="https://drive.google.com/file/d/16HB9Z0p6AvBPTY4_Cw1E_UI3TiO-Yt0t/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/-Currículo-%23FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" style="border-radius: 30px" target="_blank">
+  <a href="[https://seu-link-para-o-curriculo.pdf](https://drive.google.com/file/d/16HB9Z0p6AvBPTY4_Cw1E_UI3TiO-Yt0t/view?usp=sharing)" target="_blank">
+    <img src="https://img.shields.io/badge/-Curriculum-%23FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" style="border-radius: 30px" target="_blank">
   </a>
 </div>
 
- 
+
 <br>
 
 <ul>
