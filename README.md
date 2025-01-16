@@ -7,9 +7,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+dear,+My+name+is+Caio+Fiorotti;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
-<a href = "mailto:caiofiorotti@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/caio-fiorotti-691968210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+  <a href="mailto:caiofiorotti@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/caio-fiorotti-691968210/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+  </a>
+  <a href="https://drive.google.com/file/d/16HB9Z0p6AvBPTY4_Cw1E_UI3TiO-Yt0t/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo-%23FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" style="border-radius: 30px" target="_blank">
+  </a>
+</div>
+
  
 <br>
 
