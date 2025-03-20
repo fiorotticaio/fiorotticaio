@@ -22,9 +22,7 @@
 - 🎓 **Computer Engineering Student** at [UFES](https://www.ufes.br/) (since 2021)  
 - 🏗️ **Civil Technician** from [IFES](https://www.ifes.edu.br/)  
 - 🦾 **Software Development Intern** at [Symbios](https://www.instagram.com/symbios.br/)  
-- 🔬 **Researcher at Robotics and Biomechanics Laboratory (UFES)**  
-- 🏆 Passionate about **competitive programming**, **game development**, and **robotics**  
-- 📚 Love learning new technologies and solving complex problems!  
+- 🔬 **Researcher at [Robotics and Biomechanics Laboratory (UFES)](https://labguara.ufes.br/)**
 
 ---
 
