@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/caio-fiorotti-691968210/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a>
-  <a href="https://drive.google.com/file/d/1w3g2jmUMDPmjpXAPnifnw1oZZ7RVz4Hp/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1eETQrLSmMhbOXXPyVqEVijJdltZUt9A1/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Curriculum-%23FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" style="border-radius: 30px" target="_blank">
   </a>
 </div>
