@@ -24,8 +24,8 @@
 ### 👨‍💻 About Me
 - 🎓 **Computer Engineering Student** at [UFES](https://www.ufes.br/) (since 2021)  
 - 🏗️ **Civil Technician** from [IFES](https://www.ifes.edu.br/)  
-- 🦾 **Software Development Intern** at [Symbios](https://www.instagram.com/symbios.br/)  
 - 🔬 **Researcher at [Robotics and Biomechanics Laboratory (UFES)](https://labguara.ufes.br/)**
+- 🦾 **Data & AI Engineer** at [Datago](https://datago.com.br/)  
 
 ---
 
@@ -37,6 +37,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -49,11 +50,14 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pentaho](https://img.shields.io/badge/-Pentaho-005CAB?style=for-the-badge&logo=pentaho&logoColor=white)
 
 #### Other Skills
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"/> -->
