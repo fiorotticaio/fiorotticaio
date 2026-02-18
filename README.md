@@ -22,7 +22,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Computer Engineering Student** at [UFES](https://www.ufes.br/) (since 2021)  
+- 🎓 **Computer Engineer** from [UFES](https://www.ufes.br/)  
 - 🏗️ **Civil Technician** from [IFES](https://www.ifes.edu.br/)  
 - 🔬 **Researcher at [Robotics and Biomechanics Laboratory (UFES)](https://labguara.ufes.br/)**
 - 🦾 **Data & AI Engineer** at [Datago](https://datago.com.br/)  
