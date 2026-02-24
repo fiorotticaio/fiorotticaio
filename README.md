@@ -11,7 +11,7 @@
   <a href="mailto:caiofiorotti@gmail.com"> 
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/caio-fiorotti-691968210/" target="_blank">
+  <a href="https://www.linkedin.com/in/fiorotticaio/?locale=en-US" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a>
   <a href="https://drive.google.com/file/d/15Ws1Nsz8Ff3QXfAUUcTbFV85qbhM7Lwm/view?usp=sharing" target="_blank">
